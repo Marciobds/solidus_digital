@@ -1,0 +1,35 @@
+en:
+  spree:
+    controller:
+      controller_name: Digitalos
+    digitals:
+      broken_file: Aviso! este arquivo está quebrado
+      current_file: Arquivo atual
+      delete_file: Deletar este arquivo
+      delete_file_confirmation: Você tem certeza que deseja deletar este arquivo %{filename}?
+      digitals: Digitais
+      digital_delivery: Entrega Digital
+      digital_download: Download %{filename} ↓
+      digital_download_links: Links de download digital
+      file_is_not_ready: O arquivo está sendo processado, aguarde
+      digital_format:
+        mp3: Áudio MP3
+        mobi: Kindle eBook
+        epub: ePub eBook
+        pdf: pdf eBook
+        zip: arquivo ZIP
+        doc: Arquivo Word
+        ppt: Apresentação Power Point PPT
+        xls: Planilha Excel
+      digital_versions: Versões Digitais
+      downloads_reset: Reinicialização de downloads digitais
+      files: Arquivos
+      new_file: Novo Arquivo
+      reset_downloads: Reset Digital Downloads
+      unauthorized:
+        explained: Este link de download expirou.
+        unauthorized: Não autorizado
+      upload: Upload
+      mailer:
+        links: Links para download dos produtos digitais
+        warning: 'ATENÇÃO! Cada link vai funcionar UMA ÚNICA VEZ!<br />Além disso, irão fincionar somente POR UM PERÍODO DE 24 HORAS!'
